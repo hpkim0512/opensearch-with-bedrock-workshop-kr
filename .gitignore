@@ -1,3 +1,5 @@
 misc
 .DS_Store
 research
+.ipynb_checkpoints/
+.env_api
