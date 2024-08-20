@@ -1,0 +1,8 @@
+boto3
+opensearch-py
+langchain-community
+langchain_openai
+python-dotenv
+requests
+tqdm
+pandas
